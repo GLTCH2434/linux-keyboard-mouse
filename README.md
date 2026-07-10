@@ -102,6 +102,6 @@ preset/
 
 4. Open Input Remapper and enable the preset for your keyboard.
 
-For a detailed installation guide, see:
+For a detailed installation guide, see : 
 
 [Installation Guide](docs/installation.md)
