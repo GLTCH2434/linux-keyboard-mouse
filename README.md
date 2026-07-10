@@ -149,3 +149,15 @@ The provided layout is only a default configuration. Feel free to modify it to m
 For detailed customization instructions, see:
 
 [Customization Guide](docs/customization.md)
+
+---
+
+## Screenshots
+
+Screenshots and demonstrations will be added here.
+
+Planned examples:
+
+- Input Remapper configuration
+- Keyboard layout reference
+- Demo of keyboard-controlled mouse movement
