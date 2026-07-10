@@ -83,45 +83,47 @@ There are many situations where controlling the mouse from the keyboard is usefu
 
 # Current Default Layout
 
-| Key | Action |
+> Hold **Right Alt** while using the keys below.
+
+| Keys | Action |
 |------|--------|
-| W | Move Up |
-| A | Move Left |
-| S | Move Down |
-| D | Move Right |
-| Space | Left Click |
-| KP Enter | Right Click |
-| Q | Scroll Up |
-| E | Scroll Down |
+| Right Alt + W | Move Up |
+| Right Alt + A | Move Left |
+| Right Alt + S | Move Down |
+| Right Alt + D | Move Right |
+| Right Alt + J | Left Click |
+| Right Alt + I | Right Click |
+| Right Alt + T | Scroll Up |
+| Right Alt + G | Scroll Down |
 
 ---
 
 # Keyboard Layout
 
 ```text
-             Mouse Movement
+              Hold Right Alt
 
-                 W
-                 ↑
+              W
+              ↑
 
-        A   ←    •    →   D
+      A   ←   •   →   D
 
-                 ↓
-                 S
+              ↓
+              S
 
 
 Clicks
 
-Space       → Left Click
-KP Enter    → Right Click
+Right Alt + J  → Left Click
+Right Alt + I  → Right Click
 
 
 Scrolling
 
-Q           → Scroll Up
-E           → Scroll Down
-```
+Right Alt + T  → Scroll Up
+Right Alt + G  → Scroll Down
 
+```
 ---
 
 # Supported Backends
