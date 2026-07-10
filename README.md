@@ -105,3 +105,29 @@ preset/
 For a detailed installation guide, see : 
 
 [Installation Guide](docs/installation.md)
+
+---
+
+## Usage
+
+After enabling the preset in Input Remapper:
+
+1. Hold the **Right Alt** key.
+2. Use the mapped keys to control the mouse.
+
+Example:
+
+| Key Combination | Action |
+|----------------|--------|
+| Right Alt + W | Move cursor up |
+| Right Alt + A | Move cursor left |
+| Right Alt + S | Move cursor down |
+| Right Alt + D | Move cursor right |
+| Right Alt + J | Left click |
+| Right Alt + I | Right click |
+| Right Alt + T | Scroll up |
+| Right Alt + G | Scroll down |
+
+When **Right Alt** is not pressed, the keyboard behaves normally.
+
+
