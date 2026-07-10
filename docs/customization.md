@@ -45,8 +45,8 @@ The default configuration uses **Right Alt** as the modifier key.
 
 | Keys | Action |
 |------|--------|
-| Right Alt + J | Left click |
-| Right Alt + I | Right click |
+| Right Alt + K | Left click |
+| Right Alt + L | Right click |
 
 ### Scrolling
 

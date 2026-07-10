@@ -35,8 +35,8 @@ All mouse controls require holding the **Right Alt** key.
 
 | Keys | Action |
 |------|--------|
-| Right Alt + J | Left click |
-| Right Alt + I | Right click |
+| Right Alt + K | Left click |
+| Right Alt + L | Right click |
 
 ### Scrolling
 
@@ -61,8 +61,8 @@ All mouse controls require holding the **Right Alt** key.
                     S
 
 
-          J → Left Click
-          I → Right Click
+          K → Left Click
+          L → Right Click
 
           T → Scroll Up
           G → Scroll Down
@@ -123,8 +123,8 @@ Example:
 | Right Alt + A | Move cursor left |
 | Right Alt + S | Move cursor down |
 | Right Alt + D | Move cursor right |
-| Right Alt + J | Left click |
-| Right Alt + I | Right click |
+| Right Alt + K | Left click |
+| Right Alt + L | Right click |
 | Right Alt + T | Scroll up |
 | Right Alt + G | Scroll down |
 
