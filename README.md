@@ -29,25 +29,29 @@ Built for accessibility, productivity, and situations where a mouse or touchpad 
 
 ## Overview
 
-**linux-keyboard-mouse** is an open-source project that enables complete mouse control using only a keyboard.
 
-Unlike repositories that only share a single Input Remapper preset, this project aims to become a complete toolkit supporting multiple keyboard layouts, multiple Linux backends, installation utilities, documentation, and community-contributed configurations.
+**linux-keyboard-mouse** is an open-source toolkit that lets you control your mouse entirely from your keyboard on Linux.
 
-Whether your mouse stopped working, your laptop touchpad failed, or you simply enjoy keyboard-driven workflows, this project provides a clean and customizable solution.
+It began as a practical solution for using a computer without a mouse or touchpad, but its long-term goal is to become a unified keyboard-to-mouse toolkit that supports multiple layouts, multiple remapping backends, and an easy-to-use installation experience.
+
+Unlike repositories that provide a single remapping configuration, this project focuses on providing a complete, well-documented solution with reusable layouts, installation utilities, customization guides, and community contributions.
+
+Whether you're replacing a broken mouse, improving accessibility, or simply prefer keyboard-driven workflows, **linux-keyboard-mouse** aims to provide a reliable and extensible solution.
 
 ---
 
 ## Why this project?
 
-There are many situations where controlling the mouse from the keyboard is useful:
+## Why this project?
 
-- 🖱 Broken mouse
-- 💻 Broken laptop touchpad
-- ♿ Accessibility requirements
-- ⌨ Keyboard-first workflows
-- 🏢 Kiosk systems
-- 🚀 Productivity enthusiasts
-- 🐧 Linux users who prefer open-source tools
+Using a keyboard to control the mouse isn't just a convenience—it can be a necessity. **linux-keyboard-mouse** is designed to help in a variety of real-world situations, including:
+
+- 🖱️ Your mouse has stopped working.
+- 💻 Your laptop touchpad is broken or unreliable.
+- ♿ You need an accessible, keyboard-first way to navigate your system.
+- ⌨️ You prefer keeping your hands on the keyboard while working.
+- 🧪 You're working on a kiosk, embedded, or headless system where a mouse isn't practical.
+- 🚀 You enjoy productivity-focused workflows and keyboard shortcuts.
 
 ---
 
@@ -55,9 +59,10 @@ There are many situations where controlling the mouse from the keyboard is usefu
 
 ## Current
 
-- WASD mouse movement
-- Left click
-- Right click
+- Keyboard-controlled mouse movement
+- Modifier-based controls using **Right Alt**
+- Mouse movement (WASD)
+- Left and right click
 - Vertical scrolling
 - Easy customization
 - Beginner-friendly documentation
