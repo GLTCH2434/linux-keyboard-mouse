@@ -130,4 +130,22 @@ Example:
 
 When **Right Alt** is not pressed, the keyboard behaves normally.
 
+---
 
+## Customization
+
+The keyboard layout can be customized using **Input Remapper**.
+
+You can change:
+
+- Movement keys
+- Click keys
+- Scroll keys
+- Modifier key
+- Mouse behavior settings
+
+The provided layout is only a default configuration. Feel free to modify it to match your workflow.
+
+For detailed customization instructions, see:
+
+[Customization Guide](docs/customization.md)
