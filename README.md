@@ -67,3 +67,41 @@ All mouse controls require holding the **Right Alt** key.
           T → Scroll Up
           G → Scroll Down
 ```
+
+---
+
+## Installation
+
+### Requirements
+
+- Linux system (Ubuntu 22.04+ recommended)
+- Keyboard
+- [Input Remapper](https://github.com/sezanzeb/input-remapper)
+
+### Quick Setup
+
+1. Install Input Remapper.
+
+```bash
+sudo apt update
+sudo apt install input-remapper
+```
+
+2. Clone this repository.
+
+```bash
+git clone https://github.com/GLTCH2434/linux-keyboard-mouse.git
+cd linux-keyboard-mouse
+```
+
+3. Import the preset from:
+
+```
+preset/
+```
+
+4. Open Input Remapper and enable the preset for your keyboard.
+
+For a detailed installation guide, see:
+
+[Installation Guide](docs/installation.md)
