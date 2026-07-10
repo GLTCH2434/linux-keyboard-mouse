@@ -161,3 +161,23 @@ Planned examples:
 - Input Remapper configuration
 - Keyboard layout reference
 - Demo of keyboard-controlled mouse movement
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Acknowledgements
+
+This project uses:
+
+- [Input Remapper](https://github.com/sezanzeb/input-remapper) — for keyboard-to-mouse remapping functionality.
+
+Thanks to the developers and contributors who make Linux input customization possible.
+
+
