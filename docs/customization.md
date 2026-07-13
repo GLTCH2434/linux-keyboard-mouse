@@ -41,6 +41,15 @@ The default configuration uses **Right Alt** as the modifier key.
 | Right Alt + S | Move down |
 | Right Alt + D | Move right |
 
+## Cursor Speed
+
+The default preset provides two movement speeds:
+
+- **Right Alt + WASD** for precise cursor movement.
+- **Right Alt + M + WASD** for faster movement across the screen.
+
+You can adjust the movement speed by editing the corresponding mouse movement actions in Input Remapper.
+
 ### Mouse Buttons
 
 | Keys | Action |

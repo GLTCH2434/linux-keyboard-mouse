@@ -74,21 +74,24 @@ The keyboard-to-mouse controls are now enabled.
 ---
 
 ## Test the Controls
+## Test the Controls
 
 Hold **Right Alt** and test:
 
 | Keys | Action |
 |------|--------|
-| Right Alt + W | Move cursor up |
-| Right Alt + A | Move cursor left |
-| Right Alt + S | Move cursor down |
-| Right Alt + D | Move cursor right |
-| Right Alt + K | Left click |
-| Right Alt + L | Right click |
-| Right Alt + T | Scroll up |
-| Right Alt + G | Scroll down |
-
-When Right Alt is released, your keyboard works normally.
+| Right Alt + W | Move up |
+| Right Alt + A | Move left |
+| Right Alt + S | Move down |
+| Right Alt + D | Move right |
+| Right Alt + M + W | Move up (fast) |
+| Right Alt + M + A | Move left (fast) |
+| Right Alt + M + S | Move down (fast) |
+| Right Alt + M + D | Move right (fast) |
+| Right Alt + J | Left Click |
+| Right Alt + I | Right Click |
+| Right Alt + T | Scroll Up |
+| Right Alt + G | Scroll Down |
 
 ---
 

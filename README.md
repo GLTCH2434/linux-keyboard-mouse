@@ -9,12 +9,13 @@ Designed for users who want a mouse-free workflow, need an alternative input met
 
 ## Features
 
-- Move the mouse cursor using keyboard keys
-- Left and right mouse click support
-- Vertical scrolling
-- Uses **Right Alt** as a modifier key to avoid interfering with normal typing
-- Easy to customize using Input Remapper
-- Lightweight and simple setup
+- 🖱️ Control the mouse cursor using your keyboard
+- 🐢 Precise cursor movement
+- ⚡ Fast cursor movement using **Right Alt + M**
+- 🖱️ Left and right mouse clicks
+- 📜 Vertical scrolling
+- ⌨️ Uses **Right Alt** as a modifier to preserve normal typing
+- ⚙️ Easy to customize using Input Remapper
 
 ---
 
@@ -22,7 +23,7 @@ Designed for users who want a mouse-free workflow, need an alternative input met
 
 All mouse controls require holding the **Right Alt** key.
 
-### Mouse Movement
+### Cursor Movement
 
 | Keys | Action |
 |------|--------|
@@ -31,42 +32,30 @@ All mouse controls require holding the **Right Alt** key.
 | Right Alt + S | Move cursor down |
 | Right Alt + D | Move cursor right |
 
+### Fast Cursor Movement
+
+| Keys | Action |
+|------|--------|
+| Right Alt + M + W | Move cursor up (fast) |
+| Right Alt + M + A | Move cursor left (fast) |
+| Right Alt + M + S | Move cursor down (fast) |
+| Right Alt + M + D | Move cursor right (fast) |
+
 ### Mouse Buttons
 
 | Keys | Action |
 |------|--------|
-| Right Alt + K | Left click |
-| Right Alt + L | Right click |
+| Right Alt + J | Left Click |
+| Right Alt + I | Right Click |
 
 ### Scrolling
 
 | Keys | Action |
 |------|--------|
-| Right Alt + T | Scroll up |
-| Right Alt + G | Scroll down |
+| Right Alt + T | Scroll Up |
+| Right Alt + G | Scroll Down |
 
----
-
-### Quick Reference
-
-```text
-              Hold Right Alt
-
-                    W
-                    ↑
-
-              A  ←  •  →  D
-
-                    ↓
-                    S
-
-
-          K → Left Click
-          L → Right Click
-
-          T → Scroll Up
-          G → Scroll Down
-```
+> **Tip:** Hold **Right Alt + M** while using **WASD** for faster cursor movement across the screen.
 
 ---
 
@@ -119,12 +108,10 @@ Example:
 
 | Key Combination | Action |
 |----------------|--------|
-| Right Alt + W | Move cursor up |
-| Right Alt + A | Move cursor left |
-| Right Alt + S | Move cursor down |
-| Right Alt + D | Move cursor right |
-| Right Alt + K | Left click |
-| Right Alt + L | Right click |
+| Right Alt + W/A/S/D | Move cursor |
+| Right Alt + M + W/A/S/D | Fast cursor movement |
+| Right Alt + J | Left click |
+| Right Alt + I | Right click |
 | Right Alt + T | Scroll up |
 | Right Alt + G | Scroll down |
 
